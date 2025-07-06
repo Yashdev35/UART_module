@@ -1,0 +1,12 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+D:/coding/vivado_codes/UART/UART.gen/sources_1/ip/fifo_generator_0/sim/fifo_generator_0.v,1750844413,verilog,,,,fifo_generator_0,,,,,,,,
+D:/coding/vivado_codes/UART/UART.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+D:/coding/vivado_codes/UART/UART.srcs/sim_1/new/tb_uart.vhd,1750931509,vhdl,,,,tb_uart,,,,,,,,
+D:/coding/vivado_codes/UART/UART.srcs/sources_1/new/baud_rate_generator.vhd,1750340359,vhdl,,,,br_gen,,,,,,,,
+D:/coding/vivado_codes/UART/UART.srcs/sources_1/new/fifo_line.vhd,1750344074,vhdl,,,,lfifo,,,,,,,,
+D:/coding/vivado_codes/UART/UART.srcs/sources_1/new/reciver.vhd,1750930157,vhdl,D:/coding/vivado_codes/UART/UART.srcs/sources_1/new/uart_main.vhd,,,re,,,,,,,,
+D:/coding/vivado_codes/UART/UART.srcs/sources_1/new/transmitter.vhd,1750930052,vhdl,,,,tr,,,,,,,,
+D:/coding/vivado_codes/UART/UART.srcs/sources_1/new/uart_main.vhd,1750938895,vhdl,,,,uart,,,,,,,,
